@@ -1,6 +1,6 @@
 # Product Listing Page
 
-This project is a **Product Listing Page** built using modern web technologies. It features **Server-Side Rendering (SSR)** for improved SEO and performance, **responsive design** to adapt to different devices, and is deployed on **Netlify**. 
+This project is a **Product Listing Page** built using modern web technologies. It features **Server-Side Rendering (SSR)** for improved SEO and performance, **responsive design** to adapt to different devices, and is deployed on **Vercel**. 
 
 ## Features
 
